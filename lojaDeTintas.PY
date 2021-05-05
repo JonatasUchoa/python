@@ -1,7 +1,7 @@
 # 1L de tinta cobre 6m^2
 
 
-print("BEM VINDO!,aqui na Norte tintas você pode calcular o preço de e o valor exato de tinta que você precisará")
+print("BEM VINDO!,aqui na Norte tintas você pode calcular o preço e o valor exato de tinta que você precisará")
 
 area = float(input("digite a área que deve ser pintada:\n"))
 

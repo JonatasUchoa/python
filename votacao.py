@@ -10,11 +10,15 @@ for i in range(0,numeroEleitores,1):
     if voto == 1:
         carlao += 1
         print("votos: Carlão:",carlao,"| Pedrão:",pedrao, "| Josefa:",josefa)
+        print("-")
     elif voto == 2:
         pedrao += 1
         print("votos: Carlão:",carlao,"| Pedrão:",pedrao, "| Josefa:",josefa)
+        print("-")
     elif voto == 3:
         josefa +=1
         print("votos: Carlão:",carlao,"| Pedrão:",pedrao, "| Josefa:",josefa)
+        print("-")
     else:
         print("digite um número válido")
+        print("")
